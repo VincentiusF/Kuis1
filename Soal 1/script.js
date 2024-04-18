@@ -8,7 +8,7 @@ let mhs = {nama : "Arif", hobi : "Belajar Coding"};
 console.log(mhs.nama);
 console.log(mhs.hobi);
 
-
+let list =  document.getElementById("list");
 
 let listhobi =[];
 function getlisthobi() {
